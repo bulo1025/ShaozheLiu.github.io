@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is LSZ sample website
-
-A data-driven personal website
-======
 I am a graduate student from the [Academy of Advanced Interdisciplinary Studies, Peking University](http://www.aais.pku.edu.cn/), majoring in Data Science.
 
 - Research interests:
@@ -21,13 +17,12 @@ Machine Learning, Time Series Analysis, Brain-Computer Interfaces.
 Singing (Top 10 Singer on campus), Piano, Guitar, Traveling.
 
 - Purpose of pursuing a Ph.D
-
-Personal preference for innovative work, hoping to make contributions in the field of Brain-Computer Interfaces and Computer Science.
-Desire for knowledge and strong curiosity towards unknown affairs.
+1. Personal preference for innovative work, hoping to make contributions in the field of Brain-Computer Interfaces and Computer Science.
+2. Desire for knowledge and strong curiosity towards unknown affairs.
 
 - Personal strengths
-Clear goals: After my graduation from graduate school, I have spent two years in work experience, which makes me more purposeful in my future Ph.D. career.
-Strong learning ability: Published two papers in the BCI field within a short period of time.
+1. Clear goals: After my graduation from graduate school, I have spent two years in work experience, which makes me more purposeful in my future Ph.D. career.
+2. Strong learning ability: Published two papers in the BCI field within a short period of time.
 
 Getting started
 ======
