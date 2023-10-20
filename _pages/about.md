@@ -12,13 +12,22 @@ This is LSZ sample website
 
 A data-driven personal website
 ======
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I am a graduate student from the [Academy of Advanced Interdisciplinary Studies, Peking University](http://www.aais.pku.edu.cn/), majoring in Data Science.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+- Research interests:
+Machine Learning, Time Series Analysis, Brain-Computer Interfaces.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+- Personal hobbies:
+Singing (Top 10 Singer on campus), Piano, Guitar, Traveling.
 
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) 
+- Purpose of pursuing a Ph.D
+
+Personal preference for innovative work, hoping to make contributions in the field of Brain-Computer Interfaces and Computer Science.
+Desire for knowledge and strong curiosity towards unknown affairs.
+
+- Personal strengths
+Clear goals: After my graduation from graduate school, I have spent two years in work experience, which makes me more purposeful in my future Ph.D. career.
+Strong learning ability: Published two papers in the BCI field within a short period of time.
 
 Getting started
 ======
