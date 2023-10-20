@@ -84,19 +84,19 @@ author:
   avatar           : "lsz.png"
   bio              : "Exert the utmost of human abilities, and then resign the rest to the decree of Heaven"
   location         : "Shenzhen, China"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  #employer         :
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "liushaozhe@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  #uri              :
   #bitbucket        :
   #codepen          :
   #dribbble         :
   #flickr           :
   #facebook         :
   #foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/shaozheliu"
   #google_plus      :
   #keybase          :
   #instagram        :
@@ -112,7 +112,7 @@ author:
   #twitter          : "replacethistwitterhandle"
   #vine             :
   #weibo            :
-  xing              : "biora330"
+  #xing              : "biora330"
   #youtube          :
   #wikipedia        :
 
