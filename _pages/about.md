@@ -22,4 +22,7 @@ There are two main reasons why I am pursuing a Ph.D. Firstly, I have a personal 
 - Personal strengths:
 There are two strengths that I possess. Firstly, I have clear goals. After completing my graduate studies, I gained two years of work experience, which has further solidified my purpose and motivation in pursuing a Ph.D. Secondly, I have demonstrated a strong learning ability by publishing two papers in the field of Brain-Computer Interfaces within a relatively short period of time.
 
+# Honors and Awards
+- Kaggle competition American Express Default Prediction, 9th Place, 2022. Role: Team leader.
+
 
