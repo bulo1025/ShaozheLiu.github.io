@@ -24,6 +24,7 @@ There are two strengths that I possess. Firstly, I have clear goals. After compl
 
 # Honors and Awards
 - **American Express-Default Prediction, Gold medal 9th Place**, 2022.
+- **A spatial grid modeling method for aircraft airspace based on stereoscopic subdivision framework, Patent CN114219911A**, 2021
 - **Zhongnan University of Economics and Law Outstanding Student scholarship**, 2018.
 - **Academic scholarship of Peking University**, 2018.
 
