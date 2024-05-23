@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student from the [Academy of Advanced Interdisciplinary Studies](http://www.aais.pku.edu.cn/) at Peking University, specializing in Data Science.
+I am a graduated student from the [Academy of Advanced Interdisciplinary Studies](http://www.aais.pku.edu.cn/) at Peking University, specializing in Data Science.
 
 - Research interests:
 My research interests include Machine Learning, Time Series Analysis, and Brain-Computer Interfaces.
