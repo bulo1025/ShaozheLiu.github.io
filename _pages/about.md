@@ -18,7 +18,7 @@ There are two main reasons why I am pursuing a Ph.D. Firstly, I have a personal 
 
 # Honors and Awards
 - **Kaggle competition: BirdCLEF 2024, Silver medal**, 2024.
-- **Kaggle competition: American Express-Default Prediction, Gold medal 9th Place**, 2022.
+- **Kaggle competition: American Express-Default Prediction, Gold medal 9th Place**, 2021.
 - **A spatial grid modeling method for aircraft airspace based on stereoscopic subdivision framework, Patent CN114219911A**, 2021
 - **Zhongnan University of Economics and Law Outstanding Student scholarship**, 2018.
 - **Academic scholarship of Peking University**, 2018.
