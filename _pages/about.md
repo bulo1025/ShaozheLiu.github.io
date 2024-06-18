@@ -14,8 +14,7 @@ I am a graduate student from the [Academy of Advanced Interdisciplinary Studies]
 My research interests include Machine Learning, Time Series Analysis, and Brain-Computer Interfaces.
 
 - Purpose of pursuing a Ph.D:
-There are two main reasons why I am pursuing a Ph.D. Firstly, I have a personal preference for innovative work and hope to make significant contributions in the field of Time series analysis, Brain-Computer Interfaces. Secondly, Delving into the latest advancements in knowledge and translating my own innovative ideas into reality is what truly ignites my passion.
-
+After three years of professional experience, I have developed a strong sense of direction.  Following thorough deliberation, I have made the decision to embark on a Ph.D. program.    I have come to realize that the challenges, obstacles, and personal development involved in research greatly stimulate me.   My ambition is to make a meaningful impact in the realm of machine learning and the analysis of time series data.
 # Honors and Awards
 - **Kaggle competition: Density Forecasting, Bronze medal**, 2023.
 - **Kaggle competition: American Express-Default Prediction, Gold medal 9th Place**, 2021.
