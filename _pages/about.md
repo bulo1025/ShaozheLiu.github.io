@@ -11,7 +11,7 @@ redirect_from:
 I am a graduate student from the [Academy of Advanced Interdisciplinary Studies](http://www.aais.pku.edu.cn/) at Peking University, specializing in Data Science.
 
 - Research interests:
-My research interests include Machine Learning, Time Series Analysis, and Brain-Computer Interfaces.
+My research interests include Machine Learning, Time Series Analysis.
 
 - Purpose of pursuing a Ph.D:
 After three years of professional experience, I have developed a strong sense of direction.  Following thorough deliberation, I have made the decision to embark on a Ph.D. program.    I have come to realize that the challenges, obstacles, and personal development involved in research greatly stimulate me.   My ambition is to make a meaningful impact in the realm of machine learning and the analysis of time series data.
