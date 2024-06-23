@@ -15,6 +15,7 @@ My research interests include Machine Learning, Time series data mining.
 
 - Purpose of pursuing a Ph.D:
 After three years of professional experience, I have developed a strong sense of direction.  Following thorough deliberation, I have made the decision to embark on a Ph.D. program.    I have come to realize that the challenges, obstacles, and personal development involved in research greatly stimulate me.   My ambition is to make a meaningful impact in the realm of machine learning and the analysis of time series data.
+
 # Honors and Awards
 - **Kaggle competition: Density Forecasting, Bronze medal**, 2023.
 - **Kaggle competition: American Express-Default Prediction, Gold medal 9th Place**, 2021.
